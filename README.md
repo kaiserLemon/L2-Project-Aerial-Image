@@ -1,4 +1,4 @@
-# Simulation_evolution_of_forest_and_fires
+# Simulation-evolution-of-forests-and-fires
 
 This project provides us a way to process aerial photographs taken by satellites or planes to study various phenomena. 
 
